@@ -1,5 +1,5 @@
 ## Here is some of my works
-![Manoj](Git_banner.jpg)
+![Manoj](Git_banner1.jpg)
 
 <!--
 **Manoj7413/Manoj7413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
